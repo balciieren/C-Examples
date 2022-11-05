@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655812546 source:c:\users\eren balci\desktop\matematik fonksiyonlari 1 sqrt kullanimi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

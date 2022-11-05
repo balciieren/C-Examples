@@ -1,0 +1,13 @@
+IO
+input --> Giriş
+output--> Çıkış
+File  --> Dosya / f
+Get   --> Okuma / Alma
+Put   --> Yazdırma
+Open  --> Açma
+Close --> Kapatma
+Write --> Yazma / w
+Read  --> Okuma / r
+Add   --> Ekleme / a
+Fgets --> Toplu Okuma
+Fputs --> Toplu Yazma
